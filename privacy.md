@@ -155,9 +155,17 @@ To exercise any of these rights, contact us at the email address in Section 2. W
 
 You can also delete all locally stored data at any time by uninstalling the App from your device, or by deleting individual documents through the App's interface.
 
+**If you created an optional account** (by signing in with Google within the App), you may request deletion of that account and its associated data (profile, coin balance, and reward history — not your on-device documents, which this does not touch) in either of two ways, neither of which requires the App to be installed:
+
+- in the App, under **Settings → Delete account & data**; or
+- on the web, at [quickscanpdf's account-deletion page](https://ranabdulrehmann.github.io/legal/delete-account), without installing or opening the App.
+
+We deactivate the account immediately on a verified request and permanently delete it no later than 30 days afterward (see Section 12 for why we keep it briefly rather than instantly). If you have an active Pro subscription purchased through Google Play, cancel it in Google Play's own subscription management first — deleting your account does not cancel a running Play subscription.
+
 ## 12. Data Retention
 
 - **On your device:** Documents you scan and files the App generates remain on your device until you delete them (through the App or by uninstalling the App). We do not have the ability to delete these files remotely.
+- **Optional account data:** If you requested deletion of an optional account (Section 11), we deactivate it immediately and keep it, inaccessible, for up to 30 days before permanently deleting it. This short window exists so we can reverse a request made in error (for example, a mistaken submission using your email address) and to meet basic fraud-prevention and bookkeeping needs — it is not used for any other purpose, and the data is not reactivated or used during this window except to process the deletion itself or a genuine correction of an erroneous request.
 - **Google AdMob:** Retains the information described in Section 4A in accordance with Google's own retention policies.
 - **Firebase Analytics:** Event data is retained for the period configured for our Firebase project (currently the Google default of 14 months for user-level data). Aggregate reports may be retained indefinitely.
 - **Firebase Crashlytics:** Crash reports are retained for 90 days by default.

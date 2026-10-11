@@ -4,5 +4,6 @@ Legal documents for QuickScan PDF and other ApexByte apps published by Blackwell
 
 - [Terms of Use](terms)
 - [Privacy Policy](privacy)
+- [Delete Your Account](delete-account)
 
 For questions: apexbyte.technologies@openbase.network
